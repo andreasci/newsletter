@@ -17,7 +17,8 @@ body{
     flex-direction: row;
     justify-content: space-between;
     height: 60%;
-    width: 40%;
+    /*width: 40%;*/
+    width: 600px;
     padding: 20px;
     border-radius: 20px;
     gap: 30px;
